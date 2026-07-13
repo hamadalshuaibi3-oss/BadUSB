@@ -4,3 +4,4 @@ total combinations: 10,000 (0000 - 9999)
 Target: raspberry pi pico 2w 
 NOTICE: this wont work on new devices because they limit the amount of “tries” you can input.
 Make sure to connect gpio 2 (physical pin 4) to GND (physical pin 3, 23, 38)
+To increase or decrease the speed edit the delay on line 57 of the code.
